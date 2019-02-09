@@ -6,7 +6,7 @@ This project purpose is to perform and analyze the AB test results for a e-comme
 
 ## Givens 
 Two datasets: 
-* ab_data: The results of the AB test.
+* ab_data: AB test data of users.
 * coutnries: The country where a certain user live.
 
 ## Project goal
